@@ -1,10 +1,9 @@
 import React from 'react';
+import App from '../components/App';
 
 function IndexPage() {
   return (
-    <div>
-      Hello from Note Taker
-    </div>
+    <App/>
   );
 }
 
