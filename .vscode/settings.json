@@ -1,0 +1,9 @@
+{
+  "eslint.options":{
+    "overrideConfigFile":".eslintrc.json"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.validate": ["javascript"]
+}
